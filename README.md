@@ -30,7 +30,7 @@ This project addresses the 2D Cutting Stock Problem, which aims to optimize the 
 3. **Create an executable file**:  
    Use PyInstaller to create an executable from the Python file:
    ```bash
-   pyinstaller --onefile --windowed --icon=icon.ico main.py
+   pyinstaller --onefile --windowed --icon=icon.ico csp2d.py
    ```
 
 ---
