@@ -33,11 +33,6 @@ This project addresses the 2D Cutting Stock Problem, which aims to optimize the 
    pyinstaller --onefile --windowed --icon=icon.ico main.py
    ```
 
-   This command will:
-   - Generate a single executable file (`--onefile`).
-   - Run in windowed mode without a console (`--windowed`).
-   - Use the specified icon file (`icon.ico`).
-
 ---
 
 ### Running the Program
